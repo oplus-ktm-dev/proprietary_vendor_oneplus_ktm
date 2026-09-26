@@ -1,0 +1,15 @@
+{
+  "config":{
+    "hw_platform": ["MTP", "Surf", "RCM", "QRD", "HDK"],
+    "soc_id": ["618"]
+  },
+  "oplus_measurement_commom":{
+    "owner": "oplus_measurement",
+    ".config":{
+      "owner": "oplus_measurement",
+      "is_available":{ "type": "int", "ver": "0",
+        "data": "1"
+      }
+    }
+  }
+}
